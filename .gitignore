@@ -1,2 +1,5 @@
 # Project exclude paths
 /py_env/
+/airflow-data/
+/logs/
+/plugins/
